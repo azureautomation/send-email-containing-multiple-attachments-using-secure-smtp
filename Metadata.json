@@ -1,0 +1,20 @@
+{
+    "Author": "Razi Rais",
+    "ContentSize": 4141,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/send-email-containing-multiple-attachments-using-secure-smtp/master/Send-EmailWithAttachments.ps1",
+    "DownloadCount": 1942,
+    "Id": "Send-email-containing-bd3423ee",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 338,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-11T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook send email with multiple attachments through secure SMTP. The attached files are constructed in-memory which eliminates the need of workarounds like leveraging \u2018temp\u2019 folder on sandbox machine executing the runbook.",
+    "Title": "Send email containing multiple attachments using secure SMTP",
+    "UpdatedDate": "2015-4-11T00:00:00",
+    "Url": "https://github.com/azureautomation/send-email-containing-multiple-attachments-using-secure-smtp",
+    "UserTags": "Azure, SMTP, Powershell"
+}
